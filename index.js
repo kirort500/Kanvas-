@@ -59,11 +59,13 @@ ctx.stroke();
 
 
 
- ctx.fillText('Гитхаб',300,100);
+
 ctx.fillRect(300,110,2,2);
 ctx.font='30px Arial';
 ctx.textAlign='left';
 ctx.textBaseLine='top';
+ctx.fillText('Гитхаб',300,100);
+
 
 
 ctx.fillRect(0,0,100,100);
