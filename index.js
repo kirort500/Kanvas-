@@ -59,7 +59,7 @@ ctx.stroke();
 
 
 
- ctx.fillText('текст',300,100);
+ ctx.fillText('Гитхаб',300,100);
 ctx.fillRect(300,110,2,2);
 ctx.font='30px Arial';
 ctx.textAlign='left';
